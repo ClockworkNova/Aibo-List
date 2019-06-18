@@ -1,4 +1,3 @@
----
 title: Restoring the Sony Aibo
 ---
 
@@ -18,6 +17,27 @@ profitable.[5] Sony's AIBO customer support was withdrawn gradually, with
 support for the final ERS-7M3 ending in March 2013. In July 2014, Sony stopped
 providing repairs for AIBO products and did not provide customer support or
 repair for AIBO robots.
+
+Additonal Information
+========================
+
+Aperios and Open-R
+Aperios is Sony's Proprietary Real-Time Operating system, used in all AIBOs, 
+QRIO and some other consumer devices. Aperios OS was intended to be widely
+deployed using revolutionary real-time capabilities to handle multiple audio 
+and visual data streams concurrently[35] The operating system was not widely 
+adopted, and by 2003 Sony had stopped active development with COO Kunitake Ando 
+commenting "Aperios was an operating system of a pre-Internet age and we decided 
+that it isn't adequate for the future".[36]
+
+The OPEN-R architecture is specific to entertainment robots. The architecture involves 
+the use of modular hardware components, such as appendages that can be easily removed 
+and replaced to change the shape and function of the robots, and modular software 
+components that can be interchanged to change their behavior and movement patterns. 
+AIBO's creator, Doi, called OPEN-R the masterpiece of the AIBO development project, 
+arguing it would minimize the need for programming individual movements or responses, 
+and its "open" nature would encourage a global community of robot specialists and 
+programmers to add capability.[14]
 
 Source: <https://en.wikipedia.org/wiki/AIBO>
 
